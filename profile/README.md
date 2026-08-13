@@ -17,7 +17,7 @@ Prismor is a self-improving security layer for AI agents and modern supply chain
 
 | Repository | Description |
 |---|---|
-| [immunity-agent](https://github.com/PrismorSec/immunity-agent) | Runtime security layer for AI coding agents. Blocks dangerous commands, prevents secret leaks, and enforces runtime policies. |
+| [prismor](https://github.com/PrismorSec/prismor) | Runtime security layer for AI agents. Blocks dangerous commands, prevents secret leaks, and enforces runtime policies. |
 | [product-sbom-vex](https://github.com/PrismorSec/product-sbom-vex) | Last-mile EU CRA compliance tooling. Generate product-level SBOMs and VEX documents based on CSAF 2.0. |
 | [security-playbook](https://github.com/PrismorSec/security-playbook) | Security skill pack for AI coding agents: OWASP code and LLM rules, behavioral guardrails, static analysis guidance. |
 | [tagdiff](https://github.com/PrismorSec/tagdiff) | Aggregates changelogs across GitHub releases between two versions. |
